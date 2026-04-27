@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+data/*.db
+logs/*.log
+datasets/*/*.png
+models/*.yml
